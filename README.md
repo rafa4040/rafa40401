@@ -1,6 +1,5 @@
 # rafaella trevelin 
 
-🎂 -Idade: 18 anos  
 🎨 -Interesses:** Estética, Culinária  
 💻 -Formação:** Curso Técnico em Desenvolvimento de Sistemas - SENAI  
 📍 -Objetivo:** Me aprofundar em Tecnologia e TI  
